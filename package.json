@@ -1,0 +1,17 @@
+{
+  "name": "react-amcharts",
+  "version": "1.0.0",
+  "description": "Amcharts components for ReactJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ttungbmt/react-amcharts.git"
+  },
+  "keywords": [
+    "react-amcharts",
+    "amcharts",
+    "react"
+  ],
+  "author": "Truong Thanh Tung",
+  "license": "MIT"
+}
